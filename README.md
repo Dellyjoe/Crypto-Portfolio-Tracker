@@ -1,26 +1,35 @@
 # Crypto-Portfolio-Tracker
-To come later
 
+Discription: To come later
 
 ## Name A.BC
-A = Major Relese 
 
-B = New Feature
+* A = Major Relese
+* B = New Feature
+* C = Bug Fix
 
-C = Bug Fix
+Example Crypto-Portfolio-Tracker 1.13
 
-## Beta 1.00
-List of Features 
+-----------------------
 
-* Support the ability to add a Buy
-* Support the ability to add a Sell
-* White Buy/Sell into a .csv File
-* Menu To allow User to Select 
-   * Buy/Sell 
-   * View current Balance 
-   * View Current Sell
-* 
+## Alpha 1.00 ( Phase 1)
 
+Goal: Give the user the ability to record a Buy/Sell of a Crypto Token by intergrating with a .csv file and terminal window.
 
-##
-Test
+List of Features for Deta 1.00
+
+* [] Support the ability to write a Buy into a .csv file
+* [] Support the ability to write a Sell into a .csv file
+* [] Read a Buy/Sell from a .csv File
+* [] Menu To allow User to Select
+  * [] Buy/Sell
+  * [] View current Balance
+  * [] View Current Tax Balance
+  
+-----------------------
+
+## Beta 2.00 ( Phase 2)
+
+List of Features to come later
+
+-----------------------
