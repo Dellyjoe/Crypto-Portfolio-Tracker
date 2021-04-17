@@ -4,7 +4,9 @@ To come later
 
 ## Name A.BC
 A = Major Relese 
+
 B = New Feature
+
 C = Bug Fix
 
 ## Beta 1.00
