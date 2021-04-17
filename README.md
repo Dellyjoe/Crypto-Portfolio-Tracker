@@ -33,3 +33,7 @@ List of Features for Deta 1.00
 List of Features to come later
 
 -----------------------
+
+### List of use full commands
+
+* To Run main.exe, first build in Terminal using Ctrl + Shift + B , then to run the newly build code type .\main.exe in terminal
